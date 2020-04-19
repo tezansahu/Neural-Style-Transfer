@@ -1,0 +1,19 @@
+Rushmore_PixelChinaMountains:
+	num_steps = 750
+	style_weight = 2000000
+	content_weight = 5
+
+Tezan_TheScream:
+	num_steps = 750
+	style_weight = 5000000
+	content_weight = 10
+
+Waterfall_AbstractSplash:
+	num_steps = 500
+	style_weight = 3000000
+	content_weight = 1
+
+Konark_Picasso:
+	num_steps = 1000
+	style_weight = 5000000
+	content_weight = 10
