@@ -28,7 +28,7 @@ We define two loss metrics, one for the content (D<sub>C</sub>) and one for the 
 Here are some results of the Neural Style Transfer:
 
 | Content Image | Style Image | Output Image |
-| :--: | :--: | :--: |
+| :---: | :---: | :---: |
 | ![](images/rushmore.jpg) | ![](images/pixel_china_mountains.png) | ![](results/Rushmore_PixelChinaMountains.png) [Animation](results/Rushmore_PixelChinaMountains.gif) |
 | ![](images/tezan.jpg) | ![](images/the_scream.jpg) | ![](results/Tezan_TheScream.png) [Animation](results/Tezan_TheScream.gif) |
 | ![](images/waterfall.jpg) | ![](images/abstract_splash.jpg) | ![](results/Waterfall_AbstractSplash.png) [Animation](results/Waterfall_AbstractSplash.gif) |
