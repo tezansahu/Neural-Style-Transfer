@@ -1,6 +1,6 @@
 <h1 align="center">Neural Style Transfer</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Made%20With-PyTorch-blue"></img>
+    <img src="https://img.shields.io/badge/Made%20With-PyTorch-blue">
 </p>
 <p align="center">Using Deep Neural Networks to reproduce an Image with a new Artistic Style</p>
 
@@ -29,10 +29,10 @@ Here are some results of the Neural Style Transfer:
 
 | Content Image | Style Image | Output Image |
 | :---: | :---: | :---: |
-| ![](images/rushmore.jpg) | ![](images/pixel_china_mountains.png) | ![](results/Rushmore_PixelChinaMountains.png) [Animation](results/Rushmore_PixelChinaMountains.gif) |
-| ![](images/tezan.jpg) | ![](images/the_scream.jpg) | ![](results/Tezan_TheScream.png) [Animation](results/Tezan_TheScream.gif) |
-| ![](images/waterfall.jpg) | ![](images/abstract_splash.jpg) | ![](results/Waterfall_AbstractSplash.png) [Animation](results/Waterfall_AbstractSplash.gif) |
-| ![](images/konark.jpg) | ![](images/picasso.jpg) | ![](results/Konark_Picasso.png) [Animation](results/Konark_Picasso.gif) |
+| <img src="images/rushmore.jpg" width="250"> | <img src="images/pixel_china_mountains.png" width="250"> | <img src="results/Rushmore_PixelChinaMountains.png" width="250"> <br>[Animation](results/Rushmore_PixelChinaMountains.gif) |
+| <img src="images/tezan.jpg" width="250"> | <img src="images/the_scream.jpg" width="250"> | <img src="results/Tezan_TheScream.png" width="250"> <br> [Animation](results/Tezan_TheScream.gif) |
+| <img src="images/waterfall.jpg" width="250"> | <img src="images/abstract_splash.jpg" width="250"> | <img src="results/Waterfall_AbstractSplash.png" width="250"> <br>[Animation](results/Waterfall_AbstractSplash.gif) |
+| <img src="images/konark.jpg" width="250"> | <img src="images/picasso.jpg" width="250"> | <img src="results/Konark_Picasso.png" width="250"> <br> [Animation](results/Konark_Picasso.gif) |
 
 ***
 
